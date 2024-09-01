@@ -3,7 +3,7 @@ Exercises and projects related to my study in the subject of Compilers
 
 ## Assignments :books: 
 
-### LEXICAL 
+### LEXICAL ANALYZER
 
 A lexical analyzer created with FLEX is a tool that processes an input stream of characters and groups them into meaningful sequences called tokens. It uses regular expressions to define patterns for these tokens and generates C code that can identify these tokens in the input. This lexer is often the first step in building a compiler or interpreter, converting plain text into structured data that a parser can further process.
 
