@@ -1,36 +1,32 @@
-## :ledger: Compilers
+## Compilers :ledger: 
 Exercises and projects related to my study in the subject of Compilers
 
-## :books: Trabalhos
+## Assignments :books: 
 
-### LÉXICO
+### LEXICAL 
 
-| Exercício    | Descrição                           |
+A lexical analyzer created with FLEX is a tool that processes an input stream of characters and groups them into meaningful sequences called tokens. It uses regular expressions to define patterns for these tokens and generates C code that can identify these tokens in the input. This lexer is often the first step in building a compiler or interpreter, converting plain text into structured data that a parser can further process.
+
+| Exercise    | Description                           |
 | :--------------  | :--------------------------------- |
-| [Exercício-1](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio8)  | Escreva uma função recursiva que calcule a soma dos primeiros n cubos: S = 1^3 + 2^3 .. + n^3. |
+| [LEXER](https://github.com/BeatrizPassoni/Compilers/tree/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LEXICAL)  | Lexer created with FLEX. |
 
-## :books: Listas
+## Lists 📄
 
-### Lista 5 
+### List 5 
 
-| Exercício    | Descrição                           |
-| :--------------  | :--------------------------------- |
-| [Exercício-1](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio8)  | Escreva uma função recursiva que calcule a soma dos primeiros n cubos: S = 1^3 + 2^3 .. + n^3. |
-| [Exercício-2](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio9)  | Crie uma função recursiva que retorne a média dos elementos de um vetor de inteiros. |
+[Exercise-1](https://github.com/BeatrizPassoni/Compilers/blob/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_5/LISTA_5_EXERCICIO_1.c) 
+[Exercise-2](https://github.com/BeatrizPassoni/Compilers/blob/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_5/LISTA_5_EXERCICIO_2.c)  
 
-### Lista 6 
+### List 6 
 
-| Exercício    | Descrição                           |
-| :--------------  | :--------------------------------- |
-| [Exercício-1](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio8)  | Escreva uma função recursiva que calcule a soma dos primeiros n cubos: S = 1^3 + 2^3 .. + n^3. |
+[Exercise-1](https://github.com/BeatrizPassoni/Compilers/tree/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_6) 
 
-### Lista 7 
+### List 7 
 
-| Exercício    | Descrição                           |
-| :--------------  | :--------------------------------- |
-| [Exercício-1](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio8)  | Escreva uma função recursiva que calcule a soma dos primeiros n cubos: S = 1^3 + 2^3 .. + n^3. |
-| [Exercício-2](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio9)  | Crie uma função recursiva que retorne a média dos elementos de um vetor de inteiros. |
-| [Exercício-3](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio9)  | Crie uma função recursiva que retorne a média dos elementos de um vetor de inteiros. |
-| [Exercício-4](https://github.com/BeatrizPassoni/Algoritmos/blob/main/Fun%C3%A7%C3%B5es/Exerc%C3%ADcio9)  | Crie uma função recursiva que retorne a média dos elementos de um vetor de inteiros. |
+[Exercício-1](https://github.com/BeatrizPassoni/Compilers/tree/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_7/EXERCICIO_1)
+[Exercício-2](https://github.com/BeatrizPassoni/Compilers/tree/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_7/EXERCICIO_2)
+[Exercício-3](https://github.com/BeatrizPassoni/Compilers/tree/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_7/EXERCICIO_3)
+[Exercício-4](https://github.com/BeatrizPassoni/Compilers/tree/d193d1cb49baab5643d718fa16aa0e5c1a1da175/LISTA_7/EXERCICIO_4)
 
 
